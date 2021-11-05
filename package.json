@@ -1,0 +1,15 @@
+{
+  "name": "streaming-con-socket.io",
+  "version": "1.0.0",
+  "description": "Streaming con socket.io, Express.js y Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FrankDev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
